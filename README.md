@@ -5,7 +5,7 @@ This repository contains 2 programs that are courseworks assigned by module “A
 *	In this coursework, breadth-first search (BFS) and 2D list (grid) are used to design an agent that automatically moves to minimize its distance between foods or to maximize its distance between ghosts.
 *	Inspired by the instruction of practical exercises, my partial agent is a combination of hungry agent, corner seeking agent and survival agent. The fundamental strategy is that when there are no ghosts nearby, pacman just moves to the direction that minimize its distance between foods, and in order to make sure pacman can collect all of the foods in the map, the (x, y) coordinates of foods in four corners are automatically added to the food list. On the other hand, when the ghosts are nearby, pacman has to stop looking for foods, and to escape to the direction that maximize its distance between ghosts.
 ![image](https://github.com/dean03055045/Artificial-Intelligence/blob/master/pic%20for%20readme/workflow1.png)
-<div align=center><img width="150" height="150" src="https://github.com/dean03055045/Artificial-Intelligence/blob/master/pic%20for%20readme/workflow1.png"/></div>
+<div align=center><img width="412" height="751" src="https://github.com/dean03055045/Artificial-Intelligence/blob/master/pic%20for%20readme/workflow1.png"/></div>
 
 
 ##	Coursework 2 <br>
